@@ -1,0 +1,8 @@
+streamlit
+pypdf2
+langchain==0.0.316
+faiss-cpu
+transformers
+tensorflow
+openai==0.28.1
+tiktoken
